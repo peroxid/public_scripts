@@ -1,4 +1,1 @@
-public_scripts
-==============
-
-Public scripts
+Nothing to see here
